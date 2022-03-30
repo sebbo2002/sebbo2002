@@ -5,6 +5,8 @@
 - 🤖 Likes to tinker with his home automation system
 - 🐦 [@sebbo2002](https://twitter.com/sebbo2002)
 
+<br />
+
 ![Metrics](/github-metrics.svg)
 
 <!--
