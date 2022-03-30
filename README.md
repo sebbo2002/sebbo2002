@@ -5,9 +5,9 @@
 - 🤖 Likes to tinker with his home automation system
 - 🐦 [@sebbo2002](https://twitter.com/sebbo2002)
 
-<br />
+<!-- <br />
 
-![Metrics](/github-metrics.svg)
+![Metrics](/github-metrics.svg) -->
 
 <!--
 **sebbo2002/sebbo2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
