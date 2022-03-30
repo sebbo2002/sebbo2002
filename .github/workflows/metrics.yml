@@ -17,10 +17,8 @@ jobs:
           template: classic
           base: header
           config_timezone: Europe/Berlin
-          plugin_introduction: yes
-          plugin_introduction_title: yes
+          config_order: isocalendar, habits, traffic
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          plugin_stargazers: yes
-          plugin_stargazers_charts_type: classic
+          plugin_habits: yes
           plugin_traffic: yes
