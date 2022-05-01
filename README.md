@@ -4,10 +4,6 @@
 - 🔬 Working on a Genealogy Software in my spare time
 - 🤖 Likes to tinker with his home automation system
 
-<br />
-
-![Metrics](/github-metrics.svg)
-
 <!--
 **sebbo2002/sebbo2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
