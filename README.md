@@ -1,7 +1,7 @@
 ### Hi, I'm Sebbo. 👋
 
 - 💼 I'm currently working at [@XCNT](https://github.com/xcnt)
-- 🔬 Working on a Genealogy Software in my spare time
+- 🪴 Working on a plant-manager.app in my spare time (still private)
 - 🤖 Likes to tinker with his home automation system
 
 <!--
