@@ -3,6 +3,7 @@
 - 💼 I'm currently working at [@XCNT](https://github.com/xcnt)
 - 🪴 Working on a plant-manager.app in my spare time (still private)
 - 🤖 Likes to tinker with his home automation system
+- 🐘 I'm reachable via <a rel="me" href="https://mastodon.sebbo.net/@sebbo">Mastodon</a>
 
 <!--
 **sebbo2002/sebbo2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
